@@ -1,0 +1,15 @@
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/bin/Debug/net8.0/Livraria.Application.deps.json
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/bin/Debug/net8.0/Livraria.Application.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/bin/Debug/net8.0/Livraria.Application.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/bin/Debug/net8.0/Livraria.Domain.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/bin/Debug/net8.0/Livraria.Domain.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.csproj.AssemblyReference.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.AssemblyInfoInputs.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.AssemblyInfo.cs
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.csproj.CoreCompileInputs.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.csproj.CopyComplete
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/refint/Livraria.Application.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/Livraria.Application.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Application/obj/Debug/net8.0/ref/Livraria.Application.dll

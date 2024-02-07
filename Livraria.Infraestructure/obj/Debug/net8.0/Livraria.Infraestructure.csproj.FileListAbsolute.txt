@@ -1,0 +1,17 @@
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Infraestructure.deps.json
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Infraestructure.runtimeconfig.json
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Infraestructure.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Infraestructure.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Domain.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/bin/Debug/net8.0/Livraria.Domain.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.csproj.AssemblyReference.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.AssemblyInfoInputs.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.AssemblyInfo.cs
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.csproj.CoreCompileInputs.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.csproj.CopyComplete
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/refint/Livraria.Infraestructure.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.pdb
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.genruntimeconfig.cache
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/ref/Livraria.Infraestructure.dll
