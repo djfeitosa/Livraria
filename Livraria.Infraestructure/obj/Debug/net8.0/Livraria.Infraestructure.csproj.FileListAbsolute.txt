@@ -15,3 +15,4 @@
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.pdb
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.genruntimeconfig.cache
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/ref/Livraria.Infraestructure.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Infraestructure/obj/Debug/net8.0/Livraria.Infraestructure.sourcelink.json

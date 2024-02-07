@@ -9,3 +9,4 @@
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Domain/obj/Debug/net8.0/refint/Livraria.Domain.dll
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Domain/obj/Debug/net8.0/Livraria.Domain.pdb
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Domain/obj/Debug/net8.0/ref/Livraria.Domain.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Domain/obj/Debug/net8.0/Livraria.Domain.sourcelink.json

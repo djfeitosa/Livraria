@@ -109,3 +109,4 @@
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/Livraria.Blazor.pdb
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/Livraria.Blazor.genruntimeconfig.cache
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/ref/Livraria.Blazor.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/Livraria.Blazor.sourcelink.json

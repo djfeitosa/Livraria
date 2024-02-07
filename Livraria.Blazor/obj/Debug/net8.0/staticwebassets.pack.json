@@ -21,6 +21,38 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/2000leguassub.jpeg",
+      "PackagePath": "staticwebassets/images/2000leguassub.jpeg"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/2001odisseia.jpeg",
+      "PackagePath": "staticwebassets/images/2001odisseia.jpeg"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/devoltaparaofuturo.jpeg",
+      "PackagePath": "staticwebassets/images/devoltaparaofuturo.jpeg"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/livraria.jpeg",
+      "PackagePath": "staticwebassets/images/livraria.jpeg"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/livrariaicon.png",
+      "PackagePath": "staticwebassets/images/livrariaicon.png"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/livromagia.jpeg",
+      "PackagePath": "staticwebassets/images/livromagia.jpeg"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/loading.png",
+      "PackagePath": "staticwebassets/images/loading.png"
+    },
+    {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/semfoto.jpeg",
+      "PackagePath": "staticwebassets/images/semfoto.jpeg"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Livraria.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -17,3 +17,4 @@
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.CrossCutting/obj/Debug/net8.0/refint/Livraria.CrossCutting.dll
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.CrossCutting/obj/Debug/net8.0/Livraria.CrossCutting.pdb
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.CrossCutting/obj/Debug/net8.0/ref/Livraria.CrossCutting.dll
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.CrossCutting/obj/Debug/net8.0/Livraria.CrossCutting.sourcelink.json
