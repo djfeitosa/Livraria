@@ -3,7 +3,7 @@
     <ProjectReference Include="..\Livraria.Domain\Livraria.Domain.csproj"/>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0-beta.2"/>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.1"/>
   </ItemGroup>
   <PropertyGroup>

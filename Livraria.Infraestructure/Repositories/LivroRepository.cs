@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using Livraria.Domain.Abstractions;
 using Livraria.Domain.Entities;
@@ -29,15 +30,9 @@ namespace Livraria.Infraestructure.Repositories
 
         public async Task AtualizarLivro(Livro livro)
         {
-            if (livro is not null)
-            {
-                _context.Entry(livro).State = EntityState.Modified;
-                await _context.SaveChangesAsync();
-            }
-            else
-            {
-                throw new ArgumentNullException("Dados inválidos");
-            }
+            ArgumentNullException.ThrowIfNull(livro, "Dados Inválidos");
+            _context.Entry(livro).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
         }
 
         public async Task DeletarLivro(int id)
@@ -57,11 +52,7 @@ namespace Livraria.Infraestructure.Repositories
         public async Task<Livro?> ObterLivro(int id)
         {
             var livro = await _context.Livros.FindAsync(id);
-
-            if (livro is not null)
-            {
-                throw new InvalidOperationException($"Livro com ID {id} não encontrato.");
-            }
+            ArgumentNullException.ThrowIfNull(livro, "Dados Inválidos");
             return livro;
         }
 

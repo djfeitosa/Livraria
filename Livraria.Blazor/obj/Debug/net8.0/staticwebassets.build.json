@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lYynMB3TlpfPd6ZSDhoS7fWhDdc/vczT+B42XkaRmGM=",
+  "Hash": "1AcFZtOM3wd2GjXa2jDR2B2uHz4xxOie7HpSPvq0Zmc=",
   "Source": "Livraria.Blazor",
   "BasePath": "_content/Livraria.Blazor",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/livromagia.jpeg"
+    },
+    {
+      "Identity": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/loading.gif",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/loading.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/loading.gif"
     },
     {
       "Identity": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/loading.png",

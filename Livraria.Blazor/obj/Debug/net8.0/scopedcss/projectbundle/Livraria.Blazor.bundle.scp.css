@@ -201,3 +201,34 @@ main[b-m8mep8x4jz] {
         overflow-y: auto;
     }
 }
+/* _content/Livraria.Blazor/Components/Pages/DialogoComponent.razor.rz.scp.css */
+.confirm-dialog-container[b-glu23mf6ci] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0,0,0,0,0.5);
+    z-index: 2000;
+}
+
+.confirm-dialog[b-glu23mf6ci] {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 20rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: yellow;
+    margin-top: 1.5rem;
+    position: fixed;
+}
+/* _content/Livraria.Blazor/Components/Pages/LivrosCard.razor.rz.scp.css */
+.custom-card-img[b-46eazm93n7] {
+    width: 100px;
+    height: 100px;
+}

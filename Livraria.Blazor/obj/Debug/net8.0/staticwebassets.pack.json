@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets/images/livromagia.jpeg"
     },
     {
+      "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/loading.gif",
+      "PackagePath": "staticwebassets/images/loading.gif"
+    },
+    {
       "Id": "/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/wwwroot/images/loading.png",
       "PackagePath": "staticwebassets/images/loading.png"
     },

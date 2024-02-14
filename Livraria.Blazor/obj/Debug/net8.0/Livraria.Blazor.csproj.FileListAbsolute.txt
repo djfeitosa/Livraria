@@ -110,3 +110,5 @@
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/Livraria.Blazor.genruntimeconfig.cache
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/ref/Livraria.Blazor.dll
 /Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/Livraria.Blazor.sourcelink.json
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/scopedcss/Components/Pages/DialogoComponent.razor.rz.scp.css
+/Users/djalmaf/Desenvolvimento/VS22/Livraria/Livraria.Blazor/obj/Debug/net8.0/scopedcss/Components/Pages/LivrosCard.razor.rz.scp.css
